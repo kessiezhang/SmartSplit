@@ -1,0 +1,7 @@
+{
+  "name": "Tab - Bill Splitter",
+  "description": "Snap a receipt, add friends, and split the bill effortlessly with AI-powered item detection and smart tax/tip calculation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
